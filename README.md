@@ -10,7 +10,7 @@ Extra Constraints:
 - At any given point in time in the game there can only be at most 3 spaceship bullets in flight.
 - At any given point in time in the game there can only be at most 10 invader bullets in flight.
 
-### How to play: 
+### Run the project: 
 
 To play please do the following:
 - Download all the files in the repository
