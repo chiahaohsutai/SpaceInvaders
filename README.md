@@ -28,5 +28,4 @@ To play please do the following:
 
 #### Image of the game:
 ![Screen Shot 2021-12-23 at 11 30 12 AM](https://user-images.githubusercontent.com/89400862/147268138-93e19aa2-3a0f-4af1-a0ef-995124be1a2a.png)
-![image](https://user-images.githubusercontent.com/89400862/210665066-3cf49e07-de9e-4e9f-8689-b95bbe29ab5c.png)
 
